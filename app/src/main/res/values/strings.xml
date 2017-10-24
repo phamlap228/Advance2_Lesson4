@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoReactiveAndroid</string>
+    <string name="ok">OK</string>
+    <string name="textview">click button pls</string>
+</resources>
